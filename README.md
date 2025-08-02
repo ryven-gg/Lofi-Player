@@ -44,5 +44,5 @@ Optimized for deployment on **GitHub Pages** or any static web host.
 
 ## 🌐 Live Demo
 
-👉 [**Try it here**](https://your-username.github.io/lofi-music-player)  
+👉 [**Try it here**](https://ryven-gg.github.io/Lofi-Player/)  
 *Replace the link with your actual GitHub Pages URL*
