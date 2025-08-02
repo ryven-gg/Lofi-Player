@@ -1,48 +1,50 @@
 # 🎧 Lofi Music Player
 
-A minimal and stylish web-based music player that lets you enjoy relaxing **lofi beats** directly from your browser.  
-Designed with simplicity and calmness in mind, this player comes with three unique themes to match your mood.
+**Lofi Music Player** is a clean and minimalistic web-based music player featuring 3 relaxing lofi tracks with dynamic themes and visual effects. Ideal for focus, study, or winding down at night.
 
-## 🌀 Features
+---
 
-- 🎶 **3 Music Themes**  
-  Choose between **Chill**, **Relax**, and **Night** tracks — each with its own atmosphere and background style.
+## 🔗 Live Website  
+👉 [View Live Page](https://ryven-gg.github.io/Lofi-Player/)  
+*(Replace with your actual GitHub Pages URL)*
 
-- 🌈 **Dynamic Backgrounds**  
-  Background colors and effects change based on the selected theme for an immersive mood.
+---
 
-- 🖤 **Dark & Clean UI**  
-  Sleek, modern interface that’s easy on the eyes — perfect for both day and night use.
+## 📦 Features
 
-- 📊 **Audio Visualizer**  
-  Watch audio bars move in real-time while your music plays.
+- 🎵 3 mood-based tracks: Chill, Relax, and Night  
+- 🌈 Dynamic backgrounds that change with theme  
+- 📊 Real-time audio visualizer synced with music  
+- 🔉 Smooth and responsive volume control  
+- 🎚️ Intuitive horizontal theme/song selector  
+- 🖤 Clean dark UI, optimized for minimal distraction  
+- ⚡ Fully client-side, no libraries required
 
-- 🔉 **Volume Control**  
-  Adjust the music volume easily with a smooth slider.
+---
 
-- 🎚️ **Theme Selector Slider**  
-  Switch between songs with an intuitive horizontal selector.
+## 🛠️ Technologies Used
 
-## 💡 Why Use This?
+- ⚙️ HTML5  
+- 🎨 CSS3  
+- 🧠 JavaScript (Vanilla)  
+- 🚀 GitHub Pages (for hosting)
 
-Whether you're:
-- Studying 📚
-- Working 💼
-- Relaxing 🌙
-- Or just enjoying some chill vibes...
+---
 
-This lightweight music player offers **no ads**, **no distractions**, and **no login** — just play and relax.
+## 🧑‍💻 Developer
 
-## 🛠 Built With
+**Created by:** [ryven-gg](https://github.com/ryven-gg)  
+📬 Discord: [`@ryven.gg`](https://discord.com/users/1322092655609647186)
 
-- HTML
-- CSS
-- JavaScript (Vanilla)
+---
 
-No libraries or frameworks required.  
-Optimized for deployment on **GitHub Pages** or any static web host.
+## 📜 License
 
-## 🌐 Live Demo
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
 
-👉 [**Try it here**](https://ryven-gg.github.io/Lofi-Player/)  
-*Replace the link with your actual GitHub Pages URL*
+---
+
+## ⭐ Support
+
+If you enjoy this project or find it helpful, consider giving it a ⭐ on GitHub!
+
