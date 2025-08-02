@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lofi Music Player</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="player-container">
+    <h1>Lofi Player</h1>
+
+    <div class="theme-selector">
+      <input type="radio" name="theme" id="chill" checked>
+      <label for="chill">Chill</label>
+      <input type="radio" name="theme" id="relax">
+      <label for="relax">Relax</label>
+      <input type="radio" name="theme" id="night">
+      <label for="night">Night</label>
+    </div>
+
+    <canvas id="visualizer"></canvas>
+
+    <div class="controls">
+      <button id="playBtn" onclick="playMusic()" title="Play">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+      <button id="pauseBtn" onclick="pauseMusic()" title="Pause">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+      </button>
+    </div>
+
+    <div class="volume">
+      <label for="volume">Volume</label>
+      <input type="range" id="volume" min="0" max="1" step="0.01" value="0.8" />
+    </div>
+
+    <audio id="audioPlayer" crossorigin="anonymous"></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
